@@ -12,6 +12,6 @@ namespace CommandAPI.Dtos
         public string Platform { get; set; }
 
         [Required]
-        public string CommmandLine { get; set; }
+        public string CommandLine { get; set; }
     }
 }
